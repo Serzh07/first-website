@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 08f353c3-3870-4c7d-b7fb-572eecaf614e
+      url: 'https://serzh.quarto.pub/serzh'
